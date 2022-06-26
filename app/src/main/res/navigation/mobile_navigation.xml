@@ -25,21 +25,26 @@
     <fragment
         android:id="@+id/nav_courses"
         android:name="com.viktadzy.intellectiapp.courses"
-        android:label="fragment_courses"
+        android:label="Courses"
         tools:layout="@layout/fragment_courses" />
     <fragment
         android:id="@+id/nav_instructors"
         android:name="com.viktadzy.intellectiapp.Instructors"
-        android:label="fragment_instructors"
+        android:label="Instructors"
         tools:layout="@layout/fragment_instructors" />
     <fragment
         android:id="@+id/nav_quiz"
         android:name="com.viktadzy.intellectiapp.quiz"
-        android:label="fragment_quiz"
+        android:label="Quiz"
         tools:layout="@layout/fragment_quiz" />
     <fragment
         android:id="@+id/nav_contactus"
         android:name="com.viktadzy.intellectiapp.contactus"
-        android:label="fragment_contactus"
+        android:label="Contact Us"
         tools:layout="@layout/fragment_contactus" />
+    <activity
+        android:id="@+id/nav_settingsActivity"
+        android:name="com.viktadzy.intellectiapp.SettingsActivity"
+        android:label="Settings"
+        tools:layout="@layout/activity_settings" />
 </navigation>
