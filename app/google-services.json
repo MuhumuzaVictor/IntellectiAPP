@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932852846106",
+    "project_id": "intellectiapp",
+    "storage_bucket": "intellectiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932852846106:android:f60aec12cb5aaacc380ba3",
+        "android_client_info": {
+          "package_name": "com.viktadzy.intellectiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932852846106-tmh52a8n8ereb2bifb8vj939f03v3gkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZhgogfyzfKgk9oYHQcoEM8kPYzvCPuns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932852846106-tmh52a8n8ereb2bifb8vj939f03v3gkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
