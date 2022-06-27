@@ -3,12 +3,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".contactus">
+    tools:context=".settngs">
 
     <!-- TODO: Update blank fragment layout -->
     <WebView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/myweb"/>
+        android:id="@+id/wb_webview"/>
 
 </FrameLayout>

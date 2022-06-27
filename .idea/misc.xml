@@ -20,12 +20,17 @@
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/activity_log_in.xml" value="0.25" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/activity_navigation.xml" value="0.2203125" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/activity_settings.xml" value="0.22447916666666667" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/activity_sign_up.xml" value="0.19916820702402957" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/activity_splash.xml" value="0.2203125" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/activity_welcome.xml" value="0.33" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/app_bar_navigation.xml" value="0.2203125" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/content_navigation.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/fragment_contactus.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/fragment_courses.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/fragment_instructors.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/fragment_quiz.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/fragment_settngs.xml" value="0.21041666666666667" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/layout/nav_header_navigation.xml" value="0.25" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/IntellectiAPP/app/src/main/res/menu/activity_navigation_drawer.xml" value="0.33" />
       </map>
