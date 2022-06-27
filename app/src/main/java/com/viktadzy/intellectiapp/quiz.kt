@@ -16,9 +16,9 @@ class quiz : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        val view: View = inflater!!.inflate(R.layout.fragment_instructors, container, false)
-        val myweb = view.findViewById(R.id.my2web) as WebView
-        myweb.apply {
+        val view: View = inflater!!.inflate(R.layout.fragment_quiz, container, false)
+        val mywebb = view.findViewById(R.id.my2web) as WebView
+        mywebb.apply {
             loadUrl("http://intellectitechacademy.com/quizzes")
             webViewClient = WebViewClient();
             settings.javaScriptEnabled

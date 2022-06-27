@@ -17,8 +17,8 @@ class Instructors : Fragment() {
     ): View? {
 
         val view: View = inflater!!.inflate(R.layout.fragment_instructors, container, false)
-        val myweb = view.findViewById(R.id.myweb1) as WebView
-        myweb.apply {
+        val mywebbb = view.findViewById(R.id.myweb2) as WebView
+        mywebbb.apply {
             loadUrl("http://intellectitechacademy.com/instructors")
             webViewClient = WebViewClient();
             settings.javaScriptEnabled
