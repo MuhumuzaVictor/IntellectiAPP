@@ -43,8 +43,8 @@
         android:label="Contact Us"
         tools:layout="@layout/fragment_contactus" />
     <activity
-        android:id="@+id/nav_settingsActivity"
-        android:name="com.viktadzy.intellectiapp.SettingsActivity"
+        android:id="@+id/nav_settings"
+        android:name="com.viktadzy.intellectiapp.settings"
         android:label="Settings"
         tools:layout="@layout/activity_settings" />
 </navigation>
