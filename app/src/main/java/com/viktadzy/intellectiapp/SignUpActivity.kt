@@ -41,6 +41,7 @@ class SignUpActivity : AppCompatActivity() {
     val email = findViewById<EditText>(R.id.signupEmail)
     val passwod= findViewById<EditText>(R.id.signupPassword)
 
+
     if(email.text.isEmpty() || passwod.text.isEmpty()){
         Toast.makeText(this,"please fill all the fields", Toast.LENGTH_SHORT)
             .show()
@@ -55,7 +56,7 @@ class SignUpActivity : AppCompatActivity() {
         if (task.isSuccessful) {
             // Sign in success, move to the next activity i.e Main activity
 
-            val intent = Intent(this, HomeFragment::class.java)
+            val intent = Intent(this, NavigationActivity::class.java)
             startActivity(intent)
 
             Toast.makeText(
