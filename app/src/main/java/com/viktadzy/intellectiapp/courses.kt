@@ -19,7 +19,7 @@ class courses : Fragment() {
         val view: View = inflater!!.inflate(R.layout.fragment_courses, container, false)
         val myweb = view.findViewById(R.id.myweb1) as WebView
         myweb.apply {
-            loadUrl("http://intellectitechacademy.com/contact-us")
+            loadUrl("http://intellectitechacademy.com/courses")
             webViewClient = WebViewClient();
             settings.javaScriptEnabled
         }
